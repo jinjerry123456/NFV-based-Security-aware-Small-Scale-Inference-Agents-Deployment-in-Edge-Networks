@@ -1,4 +1,4 @@
-# Asymmetric Protection-Based S-SFC Deployment for LLM-Inference-Enabled Networks
+# NFV-based Security-aware Small-Scale Inference Agents Deployment in Edge Networks
 
 This repository contains Python implementations and experiments for secure service function chain (S-SFC) deployment in network function virtualization (NFV) environments. The code models how client workloads can be assigned to service nodes while considering security protection, GPU compute cost, bandwidth cost, topology distance, and node capacity constraints.
 
